@@ -1,0 +1,4 @@
+[submodule "styles"]
+	path = styles
+	url = git@github.com:isayyad/submod.git
+	branch = master
